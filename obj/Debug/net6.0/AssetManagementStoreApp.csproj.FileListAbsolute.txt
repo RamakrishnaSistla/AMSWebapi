@@ -1,0 +1,681 @@
+D:\AssetManagementStoreApp\bin\Debug\net6.0\appsettings.Development.json
+D:\AssetManagementStoreApp\bin\Debug\net6.0\appsettings.json
+D:\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Azure.Core.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Humanizer.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\AssetManagementStoreApp\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AssetManagementStoreApp\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\AssetManagementStoreApp\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\appsettings.Development.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\appsettings.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Azure.Core.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Humanizer.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementStoreApp.props
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementStoreApp.props
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementStoreApp.props
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\AMS project\AssetManagementStoreApp\AssetManagementStoreApp\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+D:\AmsApidemo\bin\Debug\net6.0\appsettings.Development.json
+D:\AmsApidemo\bin\Debug\net6.0\appsettings.json
+D:\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AmsApidemo\bin\Debug\net6.0\Azure.Core.dll
+D:\AmsApidemo\bin\Debug\net6.0\Azure.Identity.dll
+D:\AmsApidemo\bin\Debug\net6.0\Humanizer.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AmsApidemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AmsApidemo\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.CodeDom.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Text.Json.dll
+D:\AmsApidemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AmsApidemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\AmsApidemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\AmsApidemo\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AmsApidemo\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\AmsApidemo\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\appsettings.Development.json
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\appsettings.json
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Azure.Core.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Azure.Identity.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Humanizer.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.CodeDom.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Text.Json.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AMS project\AmsApidemo\AmsApidemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementStoreApp.props
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementStoreApp.props
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementStoreApp.props
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\AMS project\AmsApidemo\AmsApidemo\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\AssetManagementStoreApp.exe
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+C:\Users\suryatejaswi.p\Desktop\AMS-new\DOTNET_PRACTICE\.NET Solution Accelarators\AssetManagementStoreApp\AMSWebApi\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\appsettings.Development.json
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\appsettings.json
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Azure.Core.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Azure.Identity.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Humanizer.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.CodeDom.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Memory.Data.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Text.Json.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\AssetApp_Latest\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets.build.json
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets.development.json
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\AssetApp_Latest\AMSWebAPI-new\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\appsettings.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.exe
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Humanizer.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementStoreApp.props
+C:\Users\suryatejaswi.p\Desktop\demo\AMSWebAPI-24thMay\AMSWebAPI-new\obj\Debug\net6.0\staticwebassets.pack.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\appsettings.Development.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\appsettings.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\AssetManagementStoreApp.exe
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\AssetManagementStoreApp.deps.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\AssetManagementStoreApp.runtimeconfig.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\AssetManagementStoreApp.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Azure.Core.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Azure.Identity.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Humanizer.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.CodeDom.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Text.Json.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.AssemblyReference.cache
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfoInputs.cache
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.AssemblyInfo.cs
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CoreCompileInputs.cache
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cs
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.MvcApplicationPartsAssemblyInfo.cache
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementStoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementStoreApp.props
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementStoreApp.props
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementStoreApp.props
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\scopedcss\bundle\AssetManagementStoreApp.styles.css
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.csproj.CopyComplete
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\refint\AssetManagementStoreApp.dll
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.pdb
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\AssetManagementStoreApp.genruntimeconfig.cache
+D:\one drive\OneDrive - ValueLabs LLP\Desktop\AssetManagementStoreApp\AMSWebapi\obj\Debug\net6.0\ref\AssetManagementStoreApp.dll
